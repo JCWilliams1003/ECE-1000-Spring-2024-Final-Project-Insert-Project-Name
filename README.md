@@ -13,3 +13,14 @@ The first iteration of the project focused on setting up the hardware systems. S
 * Supply power for consistent operation across all components
 * Robot movement through serial commands and return encoder data to the main microcontroller
 * Manual control through text-based commands while also streaming live video to the operator
+
+## Who Are We? Mr. Jesse Robert's ECE 4961 Capstone Team 1
+
+* James (Jim) Camp - Senior Electrical Engineering Major, Mechatronics Concentration - Environmental Sensor Subsystem Developer - Delegator 
+* John-Caleb (JC) Williams - Senior Electrical Engineering Major, Electromagnetics Concentration - Navigation Subsystem Developer - Treasurer
+* John Harris - Senior Electrical Engineering Major, Controls Concentration - Power Subsystem Developer - Secretary
+* Joseph Thomas - Senior Electrical Engineering Major, Power Concentration - Movement Subsystem Developer - Social 
+
+* Mr. Jesse Roberts - Professor and Faculty Advisor
+
+* Project Stakeholders - This project was developed for anyone who needs to inspect their crawlspace. This includes homeowners, building inspectors, and renovators. The system is also a great solution for anyone experiencing issues with mold or unsafe crawlspace conditions.
